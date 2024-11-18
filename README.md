@@ -8,6 +8,7 @@ d) utilize timegpt for energy forecasting
 e) use timegpt for bitcoin forecasting
 
 Links to Videos: 
+
 https://drive.google.com/file/d/1MtIBfT6mc57yTxK0ik4ApZpq9fg42ZF-/view?usp=drive_link
 https://drive.google.com/file/d/1qZ7GM5u6NurGzvU-FDCBi5RvN5Rlt-LC/view?usp=drive_link 
 
